@@ -1,2 +1,2 @@
 # TinDog
-Done with bootstrap, tinder of dogs
+Made with bootstrap, tinder of dogs
